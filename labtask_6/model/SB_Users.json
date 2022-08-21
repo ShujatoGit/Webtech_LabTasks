@@ -1,0 +1,68 @@
+[
+    {
+        "fullname": "Rahman Naiyer",
+        "user_name": "rnaiyer",
+        "password": "123@#@",
+        "email": "rnaiyer@gmail.com",
+        "usertype": "AH",
+        "gender": "male",
+        "education": "BSC",
+        "Nationality": "bd",
+        "ProfilePicture": "mask_1.jpg"
+    },
+    {
+        "fullname": "mehedi Hasan",
+        "user_name": "mehedi",
+        "password": "mehedi!",
+        "email": "meh@gmail.com",
+        "usertype": "admin",
+        "gender": "male",
+        "education": "BSC",
+        "Nationality": "canada",
+        "ProfilePicture": "mask_2.png"
+    },
+    {
+        "fullname": "shujato barua",
+        "user_name": "shujato",
+        "password": "12345!@#",
+        "email": "shujato@gmail.com",
+        "usertype": "banker",
+        "gender": "male",
+        "education": "BSC",
+        "Nationality": "canada",
+        "ProfilePicture": "images.jpg"
+    },
+    {
+        "fullname": "Nayel Decaprio",
+        "user_name": "evergreen",
+        "password": "qqq!!!",
+        "email": "egreen@gmail.com",
+        "usertype": "AH",
+        "gender": "male",
+        "education": "HSC",
+        "Nationality": "others",
+        "ProfilePicture": "4e93fc03b2d2843fc43b3bc0642375d8.jpg"
+    },
+    {
+        "fullname": "rahmannaiyer",
+        "user_name": "naiyer",
+        "password": "123!!!",
+        "email": "nayel@gmail.com",
+        "usertype": "AH",
+        "gender": "male",
+        "education": "others",
+        "Nationality": "canada",
+        "ProfilePicture": "BG_9.jpg"
+    },
+    {
+        "fullname": "Eli Avram",
+        "user_name": "liminha",
+        "password": "123)))",
+        "email": "eliavram23@outlook.net",
+        "usertype": "banker",
+        "gender": "female",
+        "education": "others",
+        "Nationality": "ger",
+        "ProfilePicture": "BG_10.jpg"
+    }
+]
